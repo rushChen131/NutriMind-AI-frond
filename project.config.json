@@ -1,0 +1,10 @@
+{
+  "miniprogramRoot": "dist/",
+  "projectname": "ai-recipe-chat",
+  "description": "AI recipe chat mini program",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": false
+  }
+}
+
